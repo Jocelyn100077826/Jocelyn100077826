@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Next.JS and Python projects.<br><br>I'm currently learning to implement ML models into webapps.<br><br>
+I'm currently working on Next.JS and Python and AI projects.<br><br>
 
 
 # 💻 Tech Stack:
